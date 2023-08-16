@@ -1,0 +1,23 @@
+_id: req_1a44a1f100ed4d4a8afacdf21a33bb30
+type: Request
+parentId: wrk_497661fc961f4c2586ce457c4e94e094
+modified: 1692228001802
+created: 1692227881945
+url: https://api.restful-api.dev/objects
+name: Buscar dados
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.3
+authentication: {}
+metaSortKey: -1692227881945
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
